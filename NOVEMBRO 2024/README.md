@@ -2,7 +2,7 @@
 
 🚀 **Fala, galera! Tudo na paz?** 😎
 
-A **V3 Tecnologia** está com algumas oportunidades incríveis no ar! Confira as vagas disponíveis e venha fazer parte do nosso time de estrelas:
+A **V3 Tecnologia** está com algumas oportunidades incríveis no ar! Confira as v3pb-vagas disponíveis e venha fazer parte do nosso time de estrelas:
 
 💻 **Desenvolvedor Sênior Java e Kotlin na V3**
 [Descrição Completa](https://github.com/v3-tecnologia/descricoes-de-cargos/blob/main/desenvolvedor-senior-java-kotlin-na-v3.md)
