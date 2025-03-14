@@ -2,7 +2,7 @@
 
 🚀 **Fala, galera! Tudo na paz?** 😎
 
-A **V3 Tecnologia** está com algumas oportunidades incríveis no ar! Confira as vagas disponíveis e venha fazer parte do nosso time de estrelas:
+A **V3 Tecnologia** está com algumas oportunidades incríveis no ar! Confira as join-our-team disponíveis e venha fazer parte do nosso time de estrelas:
 
 🔧 **Desenvolvedor Pleno Android Embarcado**
 [Descrição Completa](https://github.com/v3-tecnologia/descricoes-de-cargos/blob/main/desenvolvedor-pleno-backend-na-v3.md)
