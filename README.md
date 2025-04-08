@@ -1,11 +1,11 @@
-# Vagas na V3 - Setembro 2023
+# Vagas na V3 - Abril 2025
 
 🚀 **Fala, galera! Tudo na paz?** 😎
 
-A **V3 Tecnologia** está com algumas oportunidades incríveis no ar! Confira as vagas disponíveis e venha fazer parte do nosso time de estrelas:
+A **V3 Tecnologia** está com uma oportunidade incrível no ar!
 
-🔧 **Desenvolvedor Pleno Android Embarcado**
-[Descrição Completa](https://github.com/v3-tecnologia/descricoes-de-cargos/blob/main/desenvolvedor-pleno-android-embarcado-na-v3.md)
+💻 **Suporte Técnico na V3**
+[Descrição Completa](https://github.com/v3-tecnologia/job-descriptions/blob/main/suporte-tecnico-junior.md)
 
 Nas descrições você vai encontrar tudo que precisa saber, incluindo:
 
