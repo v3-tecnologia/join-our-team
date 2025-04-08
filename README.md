@@ -1,4 +1,8 @@
-# Vagas na V3 - Abril 2025
+<p align="center">
+    <img src="./.github/logo.png" width="200px">
+</p>
+
+<h1 align="center" style="font-weight: bold;">Vagas na V3 - Abril 2025</h1>
 
 🚀 **Fala, galera! Tudo na paz?** 😎
 
