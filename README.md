@@ -8,8 +8,8 @@
 
 A **V3 Tecnologia** está com uma oportunidade incrível no ar!
 
-💻 **Suporte Técnico na V3**
-[Descrição Completa](https://github.com/v3-tecnologia/job-descriptions/blob/main/suporte-tecnico-junior.md)
+💻 **Analista de Suporte Técnico Júnior na V3**
+[Descrição Completa](https://github.com/v3-tecnologia/job-descriptions/blob/main/analista-suporte-tecnico-junior.md)
 
 Nas descrições você vai encontrar tudo que precisa saber, incluindo:
 
